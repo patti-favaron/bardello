@@ -86,7 +86,7 @@ void main(string[] args) {
         rvOutVV       ~= rvVV;
         rvOutWW       ~= rvWW;
         rvOutTT       ~= rvTT;
-        rvOutUV       ~= rvUU;
+        rvOutUV       ~= rvUV;
         rvOutUW       ~= rvUW;
         rvOutVW       ~= rvVW;
         rvOutUT       ~= rvUT;
